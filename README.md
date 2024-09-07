@@ -24,3 +24,10 @@ Upon completion of this course, students will be able to:
 - Implement k-means clustering and **Gaussian Mixture Models** (GMM) using the EM algorithm.
 - Understand and apply **Support Vector Machines** for classification tasks.
 - Understand and implement **backpropagation** in neural networks and explore concepts in deep learning.
+
+#### Course Textbooks
+
+The following textbooks are recommended but not mandatory:
+1. R. Duda et al., **Pattern Classification**, 2001.
+2. C. Bishop, **Pattern Recognition and Machine Learning**, 2006.
+3. I. Goodfellow et al., **Deep Learning**, 2016.
