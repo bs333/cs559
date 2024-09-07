@@ -4,10 +4,13 @@
 
 CS559 is an advanced course that covers foundational concepts, theories, and algorithms in machine learning. Topics include:
 - Maximum Likelihood Estimation
-- Dimensionality Reduction
-- Supervised and Unsupervised Learning
-- Neural Networks
-- Non-Parametric Methods
+- Linear Regression and Linear Discriminant Analysis
+- Dimensionality Reduction and Logistic Regression
+- Perceptron Learning and Support Vector Machines
+- Decision Trees and Boosting
+- Neural Networks and Backpropagation
+- Clustering: K-Means and Mixture of Gaussians
+- Non-Parametric Methods (K-Nearest Neighbors)
 
 #### Learning Outcomes
 
