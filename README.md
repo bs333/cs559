@@ -29,7 +29,8 @@ The following textbooks are recommended but not mandatory:
 2. C. Bishop, **Pattern Recognition and Machine Learning**, 2006.
 3. I. Goodfellow et al., **Deep Learning**, 2016.
 
-## Tentative Course Schedule
+#### Tentative Course Schedule
+
 | Week | Topics | Reading (Bishop) | Assignments/Quizzes |
 |------|--------|------------------|---------------------|
 | 1    | Linear Regression         | Ch 3                | HW 1, Quiz 1         |
