@@ -31,3 +31,10 @@ The following textbooks are recommended but not mandatory:
 1. R. Duda et al., **Pattern Classification**, 2001.
 2. C. Bishop, **Pattern Recognition and Machine Learning**, 2006.
 3. I. Goodfellow et al., **Deep Learning**, 2016.
+
+#### Grading
+
+Grading will be based on :
+- Homework (3 Assignments): 50%
+- Midterm Exam: 20%
+- Final Exam: 30%
