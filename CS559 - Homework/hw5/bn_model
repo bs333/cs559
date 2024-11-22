@@ -1,0 +1,16 @@
+digraph {
+	C [label="Cylinders (C)"]
+	W [label="Weight (W)"]
+	M [label="MPG (M)"]
+	L [label="Cluster Label (L)"]
+	Y [label="Model Year (Y)"]
+	A [label="Acceleration (A)"]
+	C -> W
+	C -> M
+	C -> L
+	C -> Y
+	W -> M
+	M -> L
+	Y -> A
+	C -> A
+}
