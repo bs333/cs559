@@ -1,0 +1,4 @@
+For feature selection, ask how you can choose which features to use in the model
+- Use subset selection
+- Use regularization
+- Incrementally add features that reduce generalization error
